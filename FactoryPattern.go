@@ -1,5 +1,12 @@
 package main
 
+/*
+Author: isar
+date: 2019-01-10 16:59:27
+Function: golang implement factory pattern
+Changed: No
+*/
+
 import "fmt"
 
 type Operater interface {

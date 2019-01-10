@@ -1,5 +1,12 @@
 package main
 
+/*
+Author: isar
+date: 2019-01-10 16:10:49
+Function: golang implement singleton pattern
+Changed: No
+*/
+
 import (
 	"fmt"
 )
